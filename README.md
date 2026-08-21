@@ -1,11 +1,8 @@
-# Hello 👋
+# Hey
 
-I'm 0124212 — I make things.
+hi im 12 i use my server stack to work on my creative ideas. I am an avid enjoyer of self-hosted tools, llms, and videogames!
 
-Small builder working across automation, games, and web. Self-hosted tools, chatbots, and games in Godot.
-
-## What I work with
-
+Languages I've Stumbled Across:
 Python · Go · TypeScript · GDScript · Astro
 
 ## Projects

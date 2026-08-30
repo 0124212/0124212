@@ -1,3 +1,12 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0e,100:1a1a1f&height=120&section=header&text=hey%20—%20i'm%2012&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=13&pause=1000&color=807D74&center=true&vCenter=true&width=600&lines=self-hosted+stack+%2B+automation+%2B+game+dev;Python+%C2%B7+Go+%C2%B7+TypeScript+%C2%B7+GDScript+%C2%B7+Astro+%C2%B7+Rust" alt="typing" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=0124212&label=profile%20views&color=7dd3fc&style=flat-square" alt="views" />
+  <img src="https://img.shields.io/github/followers/0124212?label=followers&style=flat-square&color=38bdf8" alt="followers" />
+</p>
+
 # hey — i'm 12
 
 self-hosted stack + automation + game dev. i like tools that stay local, llms that actually help, and videogames.

@@ -42,6 +42,14 @@ self-hosted stack + automation + game dev. i like tools that stay local, llms th
 
 </div>
 
+<div align="center">
+
+![Snake](https://raw.githubusercontent.com/0124212/0124212/output/github-snake-dark.svg)
+
+<sub>Snake will appear after first workflow run — check Actions → Generate snake</sub>
+
+</div>
+
 ---
 
 <sub>Some projects are private. Hit me up if you want to collaborate.</sub>

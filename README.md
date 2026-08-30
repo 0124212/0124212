@@ -22,4 +22,17 @@ self-hosted stack + automation + game dev. i like tools that stay local, llms th
 
 ---
 
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=0124212&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0124212&layout=compact&theme=transparent&hide_border=true&langs_count=8)
+<br/>
+![Streak](https://streak-stats.demolab.com?user=0124212&theme=transparent&hide_border=true&mode=weekly)
+
+<sub>Private contributions counted — enable yours in Profile → Settings → Contributions</sub>
+
+</div>
+
+---
+
 <sub>Some projects are private. Hit me up if you want to collaborate.</sub>

@@ -37,6 +37,10 @@ self-hosted stack + automation + game dev — tools that stay local, dotfiles th
 
 > All `install.ps1` → `Copy-Item` only, no scripts. `HOWTO.md` + `ICONS.md` in `zebar`.
 
+## uses — daily
+
+`Windows 11` `GlazeWM` `Zebar paix` `LibreWolf FoxOne` `Betterbird minimal` `VS Code Vitesse` `Windows Terminal Gruvbox` `Yazi` `Godot 4.7` `Docker` — all dotfiles in `0124212/*` `install.ps1`
+
 ## building — private
 
 - automation — [kanban](https://github.com/0124212/kanban) (Vikunja × opencode walker), [deep-research](https://github.com/0124212/deep-research) (CalDAV research pipeline), [vibing](https://github.com/0124212/vibing) (Telegram sandbox)
@@ -55,6 +59,9 @@ self-hosted stack + automation + game dev — tools that stay local, dotfiles th
 <img src="https://github-profile-trophy.vercel.app/?username=0124212&theme=transparent&no-bg=true&no-frame=true&column=6&margin-w=8&title=Stars,Commits,PRs,Issues,Followers,Repositories" alt="trophies" />
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=0124212&theme=github-compact&hide_border=true&area=true&color=807D74" width="100%" alt="activity" />
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0124212&theme=transparent&utcOffset=9" width="49%" alt="productive" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0124212&theme=transparent" width="49%" alt="commit language" />
 
 <sub>Private contributions counted — enable yours in Profile → Settings → Contributions</sub>
 

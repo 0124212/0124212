@@ -26,12 +26,20 @@ self-hosted stack + automation + game dev — tools that stay local, dotfiles th
 - [librewolf](https://github.com/0124212/librewolf) — LibreWolf profile — Betterfox 152 + FoxOne 3.5.3 Gruvbox Dark `userChrome.css` + `user.js`
 - [vscode](https://github.com/0124212/vscode) — VS Code — Vitesse Dark + functional pack (`autoSave`, Error Lens, Prettier, GitLens)
 
+## dotfiles — private ricing (portable)
+
+| | | |
+|---|---|---|
+| **zebar** `paix` 50px 12345 67890 — [0124212/zebar](https://github.com/0124212/zebar) | **librewolf** FoxOne Gruvbox — [0124212/librewolf](https://github.com/0124212/librewolf) | **vscode** Vitesse Dark — [0124212/vscode](https://github.com/0124212/vscode) |
+| `thicc-zebar` 55px watermelon | `betterbird` minimal | `terminal` Gruvbox + `yazi` |
+
+> All `install.ps1` → `Copy-Item` only, no scripts. `HOWTO.md` + `ICONS.md` in `zebar`.
+
 ## building — private
 
 - automation — [kanban](https://github.com/0124212/kanban) (Vikunja × opencode walker), [deep-research](https://github.com/0124212/deep-research) (CalDAV research pipeline), [vibing](https://github.com/0124212/vibing) (Telegram sandbox)
 - games — [horrorgame](https://github.com/0124212/horrorgame) ROOT 77-B cosmic horror (Godot 4.7), [hangoutgame](https://github.com/0124212/hangoutgame) Frutiger aero plaza
 - infra — [muse](https://github.com/0124212/muse) Discord bot, [resume](https://github.com/0124212/resume) AI-tailored fork, [blog](https://github.com/0124212/blog) AstroPaper
-- dotfiles — [zebar](https://github.com/0124212/zebar) `paix` 50px 12345 67890 + [thicc-zebar](https://github.com/0124212/thicc-zebar) 55px watermelon, [email](https://github.com/0124212/email) drafter (private forks)
 
 ---
 
@@ -41,6 +49,8 @@ self-hosted stack + automation + game dev — tools that stay local, dotfiles th
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0124212&layout=compact&theme=transparent&hide_border=true&langs_count=5)
 <br/>
 ![Streak](https://streak-stats.demolab.com?user=0124212&theme=transparent&hide_border=true&mode=weekly)
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=0124212&theme=transparent&no-bg=true&no-frame=true&column=6&margin-w=8&title=Stars,Commits,PRs,Issues,Followers,Repositories" alt="trophies" />
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=0124212&theme=github-compact&hide_border=true&area=true&color=807D74" width="100%" alt="activity" />
 

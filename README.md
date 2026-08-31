@@ -1,15 +1,19 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0e,100:1a1a1f&height=120&section=header&text=hey%20—%20i'm%2012&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0e,100:1a1a1f&height=120&section=header&text=12&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=13&pause=1000&color=807D74&center=true&vCenter=true&width=600&lines=self-hosted+stack+%2B+automation+%2B+game+dev;Python+%C2%B7+Go+%C2%B7+TypeScript+%C2%B7+GDScript+%C2%B7+Astro+%C2%B7+Rust" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=13&pause=1000&color=807D74&center=true&vCenter=true&width=650&lines=self-hosted+stack+%2B+dotfiles+ricing+%2B+game+dev;zebar+%2B+librewolf+%2B+vscode+%2B+Betterbird;Python+%C2%B7+Go+%C2%B7+TypeScript+%C2%B7+GDScript+%C2%B7+Astro+%C2%B7+Rust" alt="typing" />
   <br/>
   <img src="https://komarev.com/ghpvc/?username=0124212&label=profile%20views&color=7dd3fc&style=flat-square" alt="views" />
   <img src="https://img.shields.io/github/followers/0124212?label=followers&style=flat-square&color=38bdf8" alt="followers" />
 </p>
 
-# hey — i'm 12
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,go,ts,godot,astro,rust,vscode,git,docker&theme=dark" alt="stack" /></a>
+</p>
 
-self-hosted stack + automation + game dev. i like tools that stay local, llms that actually help, and videogames.
+# 12
+
+self-hosted stack + automation + game dev — tools that stay local, dotfiles that port everywhere.
 
 **languages i've stumbled across:** Python · Go · TypeScript · GDScript · Astro · Rust
 
@@ -34,9 +38,11 @@ self-hosted stack + automation + game dev. i like tools that stay local, llms th
 <div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=0124212&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0124212&layout=compact&theme=transparent&hide_border=true&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0124212&layout=compact&theme=transparent&hide_border=true&langs_count=5)
 <br/>
 ![Streak](https://streak-stats.demolab.com?user=0124212&theme=transparent&hide_border=true&mode=weekly)
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0124212&theme=github-compact&hide_border=true&area=true&color=807D74" width="100%" alt="activity" />
 
 <sub>Private contributions counted — enable yours in Profile → Settings → Contributions</sub>
 
@@ -49,6 +55,8 @@ self-hosted stack + automation + game dev. i like tools that stay local, llms th
 <sub>Snake will appear after first workflow run — check Actions → Generate snake</sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1f,100:0a0a0e&height=80&section=footer&text=&animation=fadeIn" width="100%"/>
 
 ---
 

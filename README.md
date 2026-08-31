@@ -17,6 +17,8 @@ self-hosted stack + automation + game dev — tools that stay local, dotfiles th
 
 **languages i've stumbled across:** Python · Go · TypeScript · GDScript · Astro · Rust
 
+> **now:** `Godot` `horrorgame` ROOT 77-B + `Betterbird` minimal (`5u4ebal1`) + `zebar` `paix` `12345 67890` — keep private, stay local
+
 ## featured — actually public
 
 - [bento](https://github.com/0124212/bento) — 12.log single-HTML bento landing (no frameworks, 45 easter eggs, Cloudflare Pages)

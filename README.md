@@ -20,7 +20,7 @@ self-hosted stack + automation + game dev — tools that stay local, dotfiles th
 ## featured — actually public
 
 - [bento](https://github.com/0124212/bento) — 12.log single-HTML bento landing (no frameworks, 45 easter eggs, Cloudflare Pages)
-- [marias-music-site](https://github.com/0124212/marias-music-site) — Spotify album recommender (Python stdlib, buy-worthiness via liked tracks)
+- [m-site](https://github.com/0124212/m-site) — Spotify album recommender (Python stdlib, buy-worthiness via liked tracks)
 - [memogram-rs](https://github.com/0124212/memogram-rs) — Rust Telegram → Memos bridge (40+ commands)
 - [memotag-rs](https://github.com/0124212/memotag-rs) — Rust auto-tag daemon for Memos (was `memos-autotagger`)
 - [librewolf](https://github.com/0124212/librewolf) — LibreWolf profile — Betterfox 152 + FoxOne 3.5.3 Gruvbox Dark `userChrome.css` + `user.js`

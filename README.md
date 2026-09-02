@@ -1,82 +1,108 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0e,100:1a1a1f&height=120&section=header&text=12&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=13&pause=1000&color=807D74&center=true&vCenter=true&width=650&lines=self-hosted+stack+%2B+dotfiles+ricing+%2B+game+dev;zebar+%2B+librewolf+%2B+vscode+%2B+Betterbird;Python+%C2%B7+Go+%C2%B7+TypeScript+%C2%B7+GDScript+%C2%B7+Astro+%C2%B7+Rust" alt="typing" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=0124212&label=profile%20views&color=7dd3fc&style=flat-square" alt="views" />
-  <img src="https://img.shields.io/github/followers/0124212?label=followers&style=flat-square&color=38bdf8" alt="followers" />
-</p>
+```
+  ██████╗ ██╗  ██╗ █████╗ ███████╗██╗  ██╗
+ ██╔════╝ ██║  ██║██╔══██╗██╔════╝██║ ██╔╝
+ ╚█████╗  ███████║███████║███████╗█████╔╝
+  ╚═══██╗ ██╔══██║██╔══██║╚════██║██╔═██╗
+ ██████╔╝ ██║  ██║██║  ██║███████║██║  ██╗
+ ╚═════╝  ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+```
 
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,go,ts,godot,astro,rust,vscode,git,docker&theme=dark" alt="stack" /></a>
-</p>
+*building things that stay local*
 
-# 12
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=807D74&center=true&vCenter=true&width=500&lines=self-hosted+infrastructure;Rust+%2B+Python+%2B+GDScript;game+dev+%2B+automation;dotfiles+that+port+everywhere&height=45)](https://git.io/typing-svg)
 
-self-hosted stack + automation + game dev — tools that stay local, dotfiles that port everywhere.
+[![Profile Views](https://komarev.com/ghpvc/?username=0124212&label=views&color=4a5568&style=flat-square)](https://github.com/0124212)
+[![Followers](https://img.shields.io/github/followers/0124212?color=4a5568&style=flat-square&label=follow)](https://github.com/0124212?tab=followers)
 
-**languages i've stumbled across:** Python · Go · TypeScript · GDScript · Astro · Rust
+</div>
 
-> **now:** `Godot` `horrorgame` ROOT 77-B + `Betterbird` minimal (`5u4ebal1`) + `zebar` `paix` `12345 67890` — keep private, stay local
+---
 
-## featured — actually public
+## what i do
 
-- [bento](https://github.com/0124212/bento) — 12.log single-HTML bento landing (no frameworks, 45 easter eggs, Cloudflare Pages)
-- [m-site](https://github.com/0124212/m-site) — Spotify album recommender (Python stdlib, buy-worthiness via liked tracks)
-- [memogram-rs](https://github.com/0124212/memogram-rs) — Rust Telegram → Memos bridge (40+ commands)
-- [memotag-rs](https://github.com/0124212/memotag-rs) — Rust auto-tag daemon for Memos (was `memos-autotagger`)
-- [librewolf](https://github.com/0124212/librewolf) — LibreWolf profile — Betterfox 152 + FoxOne 3.5.3 Gruvbox Dark `userChrome.css` + `user.js`
-- [vscode](https://github.com/0124212/vscode) — VS Code — Vitesse Dark + functional pack (`autoSave`, Error Lens, Prettier, GitLens)
+i build self-hosted infrastructure that replaces cloud dependencies with local-first tools. everything runs on a single vCPU — memos, vikunja, radicale, gotify, nginx — stitched together with rust daemons and dotfiles that move with me.
 
-## dotfiles — private ricing (portable)
+when i'm not fighting with nginx configs, i'm making games in godot or rewriting things in rust that didn't need rewriting.
 
-| | | |
-|---|---|---|
-| **zebar** `paix` 50px 12345 67890 — [0124212/zebar](https://github.com/0124212/zebar) | **librewolf** FoxOne Gruvbox — [0124212/librewolf](https://github.com/0124212/librewolf) | **vscode** Vitesse Dark — [0124212/vscode](https://github.com/0124212/vscode) |
-| `thicc-zebar` 55px watermelon | `betterbird` minimal | `terminal` Gruvbox + `yazi` |
+---
 
-> All `install.ps1` → `Copy-Item` only, no scripts. `HOWTO.md` + `ICONS.md` in `zebar`.
+## stack
 
-## uses — daily
+<div align="center">
 
-`Windows 11` `GlazeWM` `Zebar paix` `LibreWolf FoxOne` `Betterbird minimal` `VS Code Vitesse` `Windows Terminal Gruvbox` `Yazi` `Godot 4.7` `Docker` — all dotfiles in `0124212/*` `install.ps1`
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![GDScript](https://img.shields.io/badge/Godot_4.7-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
 
-## building — private
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
-- automation — [kanban](https://github.com/0124212/kanban) (Vikunja × opencode walker), [deep-research](https://github.com/0124212/deep-research) (CalDAV research pipeline), [vibing](https://github.com/0124212/vibing) (Telegram sandbox)
-- games — [horrorgame](https://github.com/0124212/horrorgame) ROOT 77-B cosmic horror (Godot 4.7), [hangoutgame](https://github.com/0124212/hangoutgame) Frutiger aero plaza
-- infra — [muse](https://github.com/0124212/muse) Discord bot, [resume](https://github.com/0124212/resume) AI-tailored fork, [blog](https://github.com/0124212/blog) AstroPaper
+</div>
+
+---
+
+## projects
+
+### rust daemons
+
+| project | what it does |
+|---------|--------------|
+| [**memogram-rs**](https://github.com/0124212/memogram-rs) | Telegram → Memos bridge. 40+ inbox commands, single binary, Docker-ready |
+| [**memotag-rs**](https://github.com/0124212/memotag-rs) | Auto-tags memos by regex — images, audio, video, code, tasks, quotes, bookmarks |
+| [**health-rs**](https://github.com/0124212/health-rs) | Tiny uptime kuma rewrite. 8 checks, 60s interval, canvas graphs, ~10MB |
+| [**kanban-rs**](https://github.com/0124212/kanban-rs) | Vikunja kanban daemon — axum + tokio + git2 + rusqlite |
+
+### automation
+
+| project | what it does |
+|---------|--------------|
+| [**deep-research**](https://github.com/0124212/deep-research) | CalDAV task queue → Brave/GitHub/arXiv search → report to Memos + Telegram |
+| [**resume**](https://github.com/0124212/resume) | AI-tailored resumes per position, keyword gaps + kanban triage |
+| [**muse**](https://github.com/0124212/muse) | Discord bot that gamifies relationship tracking — Mystic Messenger vibes |
+
+### games
+
+| project | what it does |
+|---------|--------------|
+| [**horrorgame**](https://github.com/0124212/horrorgame) | ROOT 77-B — 7-case cosmic horror investigation, CRT/VHS analog, Godot 4.7 |
+| [**hangoutgame**](https://github.com/0124212/hangoutgame) | Frutiger aero multiplayer plaza — music, courts, friends.fm score |
+
+### dotfiles & ricing
+
+| project | stack |
+|---------|-------|
+| [**dotfiles**](https://github.com/0124212/dotfiles) | One installer. GlazeWM + Zebar + LibreWolf + VS Code + Betterbird + Terminal |
+| [**bento**](https://github.com/0124212/bento) | Single-HTML bento landing — clock/goals/bookmarks, 6 themes, 45 easter eggs |
 
 ---
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=0124212&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0124212&layout=compact&theme=transparent&hide_border=true&langs_count=5)
-<br/>
-![Streak](https://streak-stats.demolab.com?user=0124212&theme=transparent&hide_border=true&mode=weekly)
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=0124212&theme=transparent&no-bg=true&no-frame=true&column=6&margin-w=8&title=Stars,Commits,PRs,Issues,Followers,Repositories" alt="trophies" />
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0124212&theme=github-compact&hide_border=true&area=true&color=807D74" width="100%" alt="activity" />
-<br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0124212&theme=transparent&utcOffset=9" width="49%" alt="productive" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0124212&theme=transparent" width="49%" alt="commit language" />
+### github stats
 
-<sub>Private contributions counted — enable yours in Profile → Settings → Contributions</sub>
+![Stats](https://github-readme-stats.vercel.app/api?username=0124212&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=807D74&text_color=C9D1D9&icon_color=807D74&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0124212&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=807D74&text_color=C9D1D9&langs_count=6)
+
+![Streak](https://streak-stats.demolab.com?user=0124212&theme=transparent&hide_border=true&background=00000000&ring=807D74&fire=807D74&currStreakLabel=807D74&sideLabels=C9D1D9)
 
 </div>
-
-<div align="center">
-
-![Snake](https://raw.githubusercontent.com/0124212/0124212/output/github-snake-dark.svg)
-
-<sub>Snake will appear after first workflow run — check Actions → Generate snake</sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1f,100:0a0a0e&height=80&section=footer&text=&animation=fadeIn" width="100%"/>
 
 ---
 
-<sub>Some projects are private. Hit me up if you want to collaborate.</sub>
+<div align="center">
+
+```
+ private repos are where the real work happens.
+ hit me up if you want to collaborate.
+```
+
+</div>

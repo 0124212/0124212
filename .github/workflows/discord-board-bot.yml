@@ -1,0 +1,28 @@
+name: discord-board-bot
+
+on:
+  push:
+    paths: ["discord-board-bot/**", ".github/workflows/discord-board-bot.yml"]
+  pull_request:
+    paths: ["discord-board-bot/**", ".github/workflows/discord-board-bot.yml"]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    defaults:
+      run:
+        working-directory: discord-board-bot
+    strategy:
+      matrix:
+        node: [20, 22]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node }}
+          cache: npm
+          cache-dependency-path: discord-board-bot/package-lock.json
+      - run: npm ci
+      # Tests use mocked fetch/interactions; no Discord or Plane secrets needed.
+      - run: npm test

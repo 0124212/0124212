@@ -1,0 +1,19 @@
+{
+  "name": "discord-board-bot",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Discord /board slash command that files a Plane issue",
+  "type": "module",
+  "main": "src/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "register": "node src/register.js",
+    "test": "node --test test/*.test.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.27.0"
+  }
+}

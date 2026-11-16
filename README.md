@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0e,100:1a1a1f&height=120&section=header&text=12&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=13&pause=1000&color=807D74&center=true&vCenter=true&width=650&lines=self-hosted+stack+%2B+dotfiles+ricing+%2B+game+dev;zebar+%2B+librewolf+%2B+vscode+%2B+Betterbird;Python+%C2%B7+Go+%C2%B7+TypeScript+%C2%B7+GDScript+%C2%B7+Astro+%C2%B7+Rust" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=13&pause=1000&color=807D74&center=true&vCenter=true&width=650&lines=self-hosted+stack+%2B+dotfiles+ricing+%2B+game+dev;zebar+%2B+librewolf+%2B+vscodium+%2B+Betterbird;Python+%C2%B7+Go+%C2%B7+TypeScript+%C2%B7+GDScript+%C2%B7+Astro+%C2%B7+Rust" alt="typing" />
   <br/>
   <img src="https://komarev.com/ghpvc/?username=0124212&label=views&color=807D74&style=flat-square" alt="views" />
   <img src="https://img.shields.io/badge/follow-807D74?style=flat-square&logo=github&logoColor=white" alt="follow" />
@@ -29,20 +29,20 @@ when i'm not fighting with nginx configs, i'm making games in godot or rewriting
 - [memogram-rs](https://github.com/0124212/memogram-rs) - Rust Telegram → Memos bridge (40+ commands)
 - [memotag-rs](https://github.com/0124212/memotag-rs) - Rust auto-tag daemon for Memos (was `memos-autotagger`)
 - [librewolf](https://github.com/0124212/librewolf) - LibreWolf profile - Betterfox 152 + FoxOne 3.5.3 Gruvbox Dark `userChrome.css` + `user.js`
-- [vscode](https://github.com/0124212/vscode) - VS Code - Vitesse Dark + functional pack (`autoSave`, Error Lens, Prettier, GitLens)
+- [vscodium](https://github.com/0124212/vscode) - VSCodium - Vitesse Dark + functional pack (`autoSave`, Error Lens, Prettier, GitLens)
 
 ## dotfiles - private ricing (portable)
 
 | | | |
 |---|---|---|
-| **zebar** `paix` 50px 12345 67890 - [0124212/zebar](https://github.com/0124212/zebar) | **librewolf** FoxOne Gruvbox - [0124212/librewolf](https://github.com/0124212/librewolf) | **vscode** Vitesse Dark - [0124212/vscode](https://github.com/0124212/vscode) |
+| **zebar** `paix` 50px 12345 67890 - [0124212/zebar](https://github.com/0124212/zebar) | **librewolf** FoxOne Gruvbox - [0124212/librewolf](https://github.com/0124212/librewolf) | **vscodium** Vitesse Dark - [0124212/vscode](https://github.com/0124212/vscode) |
 | `thicc-zebar` 55px watermelon | `betterbird` minimal | `terminal` Gruvbox + `yazi` |
 
 > All `install.ps1` → `Copy-Item` only, no scripts. `HOWTO.md` + `ICONS.md` in `zebar`.
 
 ## uses - daily
 
-`Windows 11` `GlazeWM` `Zebar paix` `LibreWolf FoxOne` `Betterbird minimal` `VS Code Vitesse` `Windows Terminal Gruvbox` `Yazi` `Godot 4.7` `Docker` - all dotfiles in `0124212/*` `install.ps1`
+`Windows 11` `GlazeWM` `Zebar paix` `LibreWolf FoxOne` `Betterbird minimal` `VSCodium Vitesse` `Windows Terminal Gruvbox` `Yazi` `Godot 4.7` `Docker` - all dotfiles in `0124212/*` `install.ps1`
 
 ## building - private
 
